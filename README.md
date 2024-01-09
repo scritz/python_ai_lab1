@@ -18,3 +18,4 @@ Black Jack
 ·         Om datorn går över 21 poäng vinner spelaren oavsett vilka kort spelaren har.
 
 ·         Om varken spelaren eller datorn går över 21 poäng så vinner den som har högst kortsumma.
+
